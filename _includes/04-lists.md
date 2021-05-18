@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Lotr
+- Anime
+- Musicals
+- playing the piano
+- painting miniatures
